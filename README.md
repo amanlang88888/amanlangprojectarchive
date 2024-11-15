@@ -8,4 +8,4 @@
   - <a href="https://github.com/amanlang88888/amanlangprojectarchive/blob/main/Marketing%20Data%20Dashboard.twbx">[Marketing Dashboard]</a></br>
   - <b>Space Text Adventure Game</b></br>
   - <a href="https://github.com/amanlang88888/amanlangprojectarchive/tree/main/space">[Space Game]</a></br>
-  - <i>Please open 'spaceee.py' in either command terminal or powershell to play.</i>
+  - <i>Please open 'space_game.py' in either command terminal or powershell to play.</i>
